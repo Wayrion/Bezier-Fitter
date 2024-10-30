@@ -11,6 +11,15 @@ A comprehensive visualization tool for understanding and interacting with Bezier
   <img src="assets/bezier.jfif" alt="Bezier Curve Visualization Tool" width="300" height="300">
 </div>
 
+## Acknowledgements
+Thank you to the following resources for providing valuable information for this project:
+https://en.wikipedia.org/wiki/B%C3%A9zier_curve
+
+Adapted and ported from sage to Python from https://commons.wikimedia.org/wiki/File:Bernstein_poly_4.svg
+
+Finally, thank you to the [Freya Holmér](https://www.youtube.com/@acegikmo) for providing inspiration for this project which was used in my International Baccalaurate Mathematics Internal Assessment (and that 7!1!1!). The video can be found here:
+https://www.youtube.com/watch?v=aVwxzDHniEw
+
 ## Description
 
 This tool provides several key features for understanding and working with Bezier curves:
